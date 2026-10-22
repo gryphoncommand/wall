@@ -1,2 +1,3 @@
-# wall
-Gryphon Command Programmers
+# Sign the Wall
+
+_**Gryphon Command Programmers**_
